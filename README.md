@@ -21,4 +21,4 @@
 ## Atualmente estou cursando Engenharia de Software, com o objetivo de desenvolver aplicativos mobile.
 
 
-!{snake_gif}(https://github.com/leao-al/leao-al/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/leao-al/leao-al/blob/output/github-contribution-grid-snake.svg)
