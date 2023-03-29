@@ -15,7 +15,7 @@
 
 
 
-![snake gif](https://github.com/leao-al/leao-al/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/leao-al/leao-al/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
