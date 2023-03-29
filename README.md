@@ -13,9 +13,6 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-
-
-![snake animation](https://github.com/leao-al/leao-al/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
