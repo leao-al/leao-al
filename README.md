@@ -13,15 +13,15 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 
+
+
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-
-</div>
-
-
 
 
 ## Atualmente estou cursando Engenharia de Software, com o objetivo de desenvolver aplicativos mobile.
