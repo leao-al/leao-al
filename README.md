@@ -23,6 +23,8 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+
 
 ## Atualmente estou cursando Engenharia de Software, com o objetivo de desenvolver aplicativos mobile.
 
