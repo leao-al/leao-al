@@ -1,4 +1,4 @@
-## Olá eu sou o Arthur Leão 😊
+## Olá eu sou o Arthur Leão 
 
 ![leao GitHub stats](https://github-readme-stats.vercel.app/api?username=leao-al&show_icons=true&theme=onedark)
 
